@@ -121,18 +121,14 @@ Based on the findings, the following recommendations can help improve road safet
 
 Here are some key visualizations from the analysis:
 
-### **1️⃣ Accident Severity Distribution**  
-![Accident Severity Distribution](images/accident_severity_distribution.png)
+### **Accident Severity Distribution**  
+![Image](https://github.com/user-attachments/assets/9ef8dc6f-1dd3-47b1-871d-48acca7440a9)
 
-### **2️⃣ Geospatial Heatmap of Accident Hotspots**  
-![Accident Hotspots](images/accident_hotspots.png)
+### **Weather Conditions & Accidents**  
+![Image](https://github.com/user-attachments/assets/a5d468af-ae4e-4faf-ba55-e08bb9357815)
 
-### **3️⃣ Weather Conditions & Accidents**  
-![Weather Impact on Accidents](images/weather_impact.png)
-
-### **4️⃣ Time-Based Accident Analysis**  
-![Accidents by Time of Day](images/accidents_time_analysis.png)
-
+### **Time-Based Accident Analysis**  
+![Image](https://github.com/user-attachments/assets/4a55a177-b45e-4a3f-843f-03520cf3c40d)
 
 
 
